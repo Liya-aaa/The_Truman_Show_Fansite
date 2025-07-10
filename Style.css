@@ -1,0 +1,36 @@
+h1
+{
+	color: darkred;
+}
+p
+{
+	font-size: 22px;
+	color: blue;
+	text-align: center;
+	
+
+}
+#TTSimg 
+{
+	
+	width: 400px;
+	height: auto;
+	align-items: center;
+	border: 2px dashed #000000;
+
+}
+#TTSBA
+{
+	width: 500px;
+	height: auto;
+	align-items: center;
+	border: 2px dashed #000000
+}
+body
+{
+
+}
+h2
+{
+	Color: darkred;
+}
