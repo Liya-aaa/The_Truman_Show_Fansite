@@ -15,7 +15,7 @@ p
 	
 	width: 400px;
 	height: auto;
-	align-items: center;
+	align-content: center;
 	border: 2px dashed #000000;
 
 }
