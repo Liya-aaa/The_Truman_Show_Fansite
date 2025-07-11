@@ -13,8 +13,8 @@ p
 #TTSimg 
 {
 	
-	width: 200px;
-	height: auto;
+	width: auto;
+	height: 200px;
 	border: 2px dashed #000000;
 
 }
